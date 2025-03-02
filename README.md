@@ -137,19 +137,75 @@ Para probar la funcionalidad de "Adivinar el número", simplemente visita el sig
 
 ## 🔆Resultados del 7DaysOfCode 5
 
->> ![img](assets/)
+>> ![img](assets/consola6.png)
 
->> ![img](assets/)
+>> ![img](assets/salida24.png)
 
->> ![img](assets/)
+>> ![img](assets/salida25.png)
 
->> ![img](assets/)
+>> ![img](assets/consola7.png)
 
->> ![img](assets/)
+>> ![img](assets/salida26.png)
 
->> ![img](assets/)
+>> ![img](assets/salida27.png)
 
->> ![img](assets/)
+>> ![img](assets/consola7.png)
+
+>> ![img](assets/salida28.png)
+
+>> ![img](assets/salida25.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida29.png)
+
+>> ![img](assets/salida27.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida30.png)
+
+>> ![img](assets/consola8.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida31.png)
+
+>> ![img](assets/consola8.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida32.png)
+
+>> ![img](assets/salida25.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida33.png)
+
+>> ![img](assets/salida25.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida34.png)
+
+>> ![img](assets/salida25.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida35.png)
+
+>> ![img](assets/salida27.png)
+
+>> ![img](assets/consola6.png)
+
+>> ![img](assets/salida36.png)
+
+>> ![img](assets/consola9.png)
+
+>> ![img](assets/salida37.png)
+
+>> ![img](assets/consola10.png)
 
 ## 🔆Resultados del 7DaysOfCode 6
 
