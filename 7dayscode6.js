@@ -119,8 +119,10 @@ while (lista <= 2) {
                     lista = parseInt(prompt('¿Deseas agregar un alimento a tu lista de compras? Responde 1 si es Sí, o 3 si es No, o 2 si deseas Eliminar algún Alimento de la Lista.'));
                 }                
             }            
-        }  
-        agregarAlimento();               
+        } 
+        if (lista != 3) {  // para que pueda salir sin entrar a pedir un nuevo alimento
+            agregarAlimento();
+        }                       
     }    
 }
 imprimirLista();

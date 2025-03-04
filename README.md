@@ -209,35 +209,103 @@ Para probar la funcionalidad de "Adivinar el número", simplemente visita el sig
 
 ## 🔆Resultados del 7DaysOfCode 6
 
->> ![img](assets/)
+>> ![img](assets/consola11.png)
 
->> ![img](assets/)
+>> ![img](assets/salida38.png)
 
->> ![img](assets/)
+>> ![img](assets/salida39.png)
 
->> ![img](assets/)
+>> ![img](assets/salida42.png)
 
->> ![img](assets/)
+>> ![img](assets/salida41.png)
 
->> ![img](assets/)
+>> ![img](assets/salida39.png)
 
->> ![img](assets/)
+>> ![img](assets/salida42.png)
+
+>> ![img](assets/salida43.png)
+
+>> ![img](assets/salida44.png)
+
+>> ![img](assets/salida42.png)
+
+>> ![img](assets/salida45.png)
+
+>> ![img](assets/salida46.png)
+
+>> ![img](assets/salida42.png)
+
+>> ![img](assets/salida47.png)
+
+>> ![img](assets/salida48.png)
+
+>> ![img](assets/salida42.png)
+
+>> ![img](assets/salida49.png)
+
+>> ![img](assets/salida50.png)
+
+>> ![img](assets/salida51.png)
+
+>> ![img](assets/salida52.png)
+
+>> ![img](assets/salida53.png)
+
+>> ![img](assets/salida54.png)
+
+>> ![img](assets/salida55.png)
+
+>> ![img](assets/salida56.png)
+
+>> ![img](assets/salida57.png)
+
+>> ![img](assets/salida58.png)
+
+>> ![img](assets/salida59.png)
+
+>> ![img](assets/salida58.png)
+
+>> ![img](assets/consola12.png)
 
 ## 🔆Resultados del 7DaysOfCode 7
 
->> ![img](assets/)
+>> ![img](assets/consola13.png)
 
->> ![img](assets/)
+>> ![img](assets/salida60.png)
 
->> ![img](assets/)
+>> ![img](assets/salida61.png)
 
->> ![img](assets/)
+>> ![img](assets/salida62.png)
 
->> ![img](assets/)
+>> ![img](assets/salida63.png)
 
->> ![img](assets/)
+>> ![img](assets/salida64.png)
 
->> ![img](assets/)
+>> ![img](assets/salida65.png)
+
+> ![img](assets/salida66.png)
+
+>> ![img](assets/salida67.png)
+
+>> ![img](assets/salida68.png)
+
+>> ![img](assets/salida69.png)
+
+>> ![img](assets/salida70.png)
+
+>> ![img](assets/salida71.png)
+
+>> ![img](assets/salida72.png)
+
+> ![img](assets/salida73.png)
+
+>> ![img](assets/salida74.png)
+
+>> ![img](assets/salida75.png)
+
+>> ![img](assets/salida76.png)
+
+>> ![img](assets/salida77.png)
 
 ## 👩👨Autores del Proyecto
 
