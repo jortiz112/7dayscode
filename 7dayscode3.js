@@ -1,4 +1,4 @@
-/*¿Alguna vez has jugado un juego que te dé más de una opción y, dependiendo de lo que elijas, el 
+/* ¿Alguna vez has jugado un juego que te dé más de una opción y, dependiendo de lo que elijas, el 
 destino del personaje sea completamente diferente?
 
 Hoy vas a desarrollar un ejemplo así con Javascript.
@@ -41,11 +41,12 @@ la lista de aprendizaje. */
 
 let area = parseInt(prompt('¿Quiéres seguir hacia el área de Front-End o seguir hacia el área de Back-End? Responde 1 si es Front-End y 2 si es Back-End.'));
 let listaDeAprendizaje = [];
+let lenguaje = 0;
 
 if (area === 1) {
     area = 'Front-End';
     console.log(area);
-    let lenguaje = parseInt(prompt('¿Quiéres aprender React o aprender Vue? Responde 3 si es React o 4 si es Vue.'));
+    lenguaje = parseInt(prompt('¿Quiéres aprender React o aprender Vue? Responde 3 si es React o 4 si es Vue.'));
     lenguaje = lenguaje == 3 ? console.log('React') : console.log('Vue');
 } else if (area === 2) {
     area = 'Back-End';
@@ -81,8 +82,7 @@ while (tecnologias != null) {
         tecnologias = null;
     }
 }
-console.log('Lista de aprendizaje:');
-console.log(listaDeAprendizaje);
+console.log(`Lista de aprendizaje:\n  ${listaDeAprendizaje.join(', ')}`);
 
 
 
